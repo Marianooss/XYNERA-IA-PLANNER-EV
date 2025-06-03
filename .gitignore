@@ -24,6 +24,3 @@ coverage/
 # IDE directories
 .vscode/
 .idea/
-
-# Documentation
-docs/
