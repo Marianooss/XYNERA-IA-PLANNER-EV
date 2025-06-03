@@ -1,0 +1,29 @@
+# Node modules and lock
+node_modules/
+package-lock.json
+
+# Environment files
+.env
+.env.local
+config/keys.js
+
+# Logs and temp
+*.log
+*.swp
+.DS_Store
+
+# Build outputs
+dist/
+build/
+out/
+.next/
+
+# Test reports
+coverage/
+
+# IDE directories
+.vscode/
+.idea/
+
+# Documentation
+docs/
